@@ -1,0 +1,15 @@
+h1{font-family: sans-serif; text-align: center}
+h2{font-family: sans-serif; text-align: left;}
+h3{font-family: sans-serif; text-align: inherit}
+
+section.section1 {background-color:#D1D1E0; visibility: hidden; padding: 5px; width: 100%; position: absolute; top: inherit;} 
+
+section.section2 {background-color: #A3A3CC; visibility: hidden; padding: 5px; width: 100%; position: absolute; top: inherit;}
+
+#Assign1Pic{max-height: 580px ; max-width: 578px; padding: 5px;}
+#Assign1Pic{height: 100%; width:100%; padding: 5px;}
+
+#footer { background-color: Gray ; color: #F2E6E6 ; text-align: center; padding: 5px; width: 100%;   position: absolute; left: 0; bottom: 0; right: 0;}
+
+
+
